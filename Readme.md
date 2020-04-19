@@ -1,5 +1,13 @@
 # Milestone-5: Chrome Extension: 21st century bookmarker
 
+# Team Members
+
+- Manoj
+
+- Sadhana
+
+- Swetha
+
 ## Learning Competencies
 
 By the end of this milestone ensure that you
