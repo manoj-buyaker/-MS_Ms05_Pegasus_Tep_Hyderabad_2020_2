@@ -1,5 +1,10 @@
 # Milestone-5: Chrome Extension: 21st century bookmarker
 
+
+ # "Budget Manager"
+
+  This extension tracks your overall spendings.
+
 # Team Members
 
 - Manoj
