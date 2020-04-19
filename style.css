@@ -1,0 +1,23 @@
+body {
+    background-color: #60a0a5ea;
+  }
+
+  h1 {
+    color: rgb(182, 67, 47);
+  }
+  
+  #spendAmount {
+    background-color: #d7e6e4;
+  }
+
+  #saveLimit {
+    background-color: #d7e6e4;
+  }
+
+  #resetTotal {
+    background-color: #d7e6e4;
+  }
+
+  body{
+    background-image: url("bm.jpg");
+  }
