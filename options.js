@@ -1,8 +1,9 @@
 $(function(){
-
+// get the already stored  limit values
     chrome.storage.sync.get('limit',function(budget){
         $('#limit').val(budget.limit);
     });
+//set the limit value to chrome storage
 
     $('#saveLimit').click(function(){
         var limit = $('#limit').val();
@@ -12,6 +13,7 @@ $(function(){
             });
         }
     });
+//added  click event to reset button
 
     $('#resetTotal').click(function(){
         chrome.storage.sync.set({'total': 0}, function(){
